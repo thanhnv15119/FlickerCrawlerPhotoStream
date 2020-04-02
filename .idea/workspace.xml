@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a266fbc9-8dcb-4692-a4e3-54b925c5edd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZzIeQC7u4O6Xw8PUwi0HY7Tg3l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/selenium-java-3.141.59/client-combined-3.141.59.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="thanhnv.Main" />
+      <module name="Flicker_Crawl" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Flicker_Crawl/thanhnv/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JavaScript Debug.test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a266fbc9-8dcb-4692-a4e3-54b925c5edd6" name="Default Changelist" comment="" />
+      <created>1585835590705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585835590705</updated>
+      <workItem from="1585835592533" duration="1812000" />
+      <workItem from="1585838672274" duration="6766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1761" y="176" width="575" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585843923345">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1761" y="176" width="575" height="416" key="#com.intellij.fileTypes.FileTypeChooser/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585843923345" />
+    <state x="1857" y="84" width="374" height="600" key="#com.intellij.ide.util.MemberChooser" timestamp="1585844855901">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1857" y="84" width="374" height="600" key="#com.intellij.ide.util.MemberChooser/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585844855901" />
+    <state x="1797" y="4" width="494" height="760" key="#test.html" timestamp="1585842183187">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1797" y="4" width="494" height="760" key="#test.html/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585842183187" />
+    <state x="1832" y="127" width="735" height="513" key="FileChooserDialogImpl" timestamp="1585841226414">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1832" y="127" width="735" height="513" key="FileChooserDialogImpl/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585841226414" />
+    <state width="1320" height="231" key="GridCell.Tab.0.bottom" timestamp="1585845074489">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="231" key="GridCell.Tab.0.bottom/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585845074489" />
+    <state width="1320" height="231" key="GridCell.Tab.0.center" timestamp="1585845074489">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="231" key="GridCell.Tab.0.center/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585845074489" />
+    <state width="1320" height="231" key="GridCell.Tab.0.left" timestamp="1585845074488">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="231" key="GridCell.Tab.0.left/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585845074488" />
+    <state width="1320" height="231" key="GridCell.Tab.0.right" timestamp="1585845074489">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="231" key="GridCell.Tab.0.right/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585845074489" />
+    <state x="1532" y="0" width="1024" height="768" key="SettingsEditor" timestamp="1585841252142">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1532" y="0" width="1024" height="768" key="SettingsEditor/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585841252142" />
+    <state x="1846" y="205" width="405" height="357" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.ADVANCED" timestamp="1585842107654">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1846" y="205" width="405" height="357" key="XPathView.InputDialog.DIMENSION_SERVICE_KEY.ADVANCED/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585842107654" />
+    <state x="1712" y="89" key="search.everywhere.popup" timestamp="1585842029643">
+      <screen x="1366" y="0" width="1366" height="768" />
+    </state>
+    <state x="1712" y="89" key="search.everywhere.popup/0.28.1366.740/1366.0.1366.768@1366.0.1366.768" timestamp="1585842029643" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history>
+      <element expression="/html/body/div[1]/div/div[2]/div/div[5]/div[3]">
+        <namespace prefix="cc" uri="http://creativecommons.org/ns#" />
+      </element>
+    </history>
+    <find-history />
+  </component>
+</project>
